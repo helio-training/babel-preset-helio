@@ -7,13 +7,13 @@
 Using NPM
 
 ```bash
-$ npm install babel-preset-helio -D
+$ npm install @helio-training/babel-preset-helio -D
 ```
 
 Using Yarn
 
 ```bash
-$ yarn add babel-preset-helio --dev
+$ yarn add @helio-training/babel-preset-helio --dev
 ```
 
 ### Usage
