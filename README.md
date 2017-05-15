@@ -1,6 +1,6 @@
 # Helio Babel Presets
 
-> Sets up node projects with proper ES2017+ sytax
+> Sets up node projects with proper ES2017+ syntax
 
 ## Installation
 
@@ -25,4 +25,5 @@ $ yarn add @helio-training/babel-preset-helio --dev
   "presets": "helio"
 }
 ```
+
 
