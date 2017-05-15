@@ -1,6 +1,6 @@
 {
   "name": "@helio-training/babel-preset-helio",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Babel presets",
   "main": "index.js",
   "repository": {
